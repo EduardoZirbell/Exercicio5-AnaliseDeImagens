@@ -1,0 +1,31 @@
+# Caderno de Inteligência
+
+1. Qual informação permite identificar uma localização relacionada à operação?
+
+2. Qual é a chave associada ao cofre mencionado nas evidências?
+
+3. Qual veículo foi utilizado pelo operador durante o deslocamento?
+
+4. Qual informação relacionada a uma sociedade pode ser recuperada durante a investigação?
+
+5. Qual senha pode ser associada a uma das redes utilizadas pelo operador?
+
+6. Qual era o nome do responsável por fornecer os equipamentos utilizados na operação?
+
+7. Quais credenciais de acesso podem ser recuperadas a partir do material analisado?
+
+8. Qual endereço de rede aparece relacionado às informações de acesso encontradas?
+
+9. Em qual hotel os envolvidos se hospedaram durante a operação?
+
+10. Qual informação oculta pode ser relacionada à imagem de uma janela?
+
+11. Qual informação oculta pode ser relacionada a uma quadra?
+
+12. Qual foi o valor exigido pelo grupo durante a extorsão?
+
+13. Qual informação pode ser relacionada ao número 1875?
+
+14. Qual identificação pode ser associada ao operador presente nas evidências?
+
+15. Qual era o número de telefone utilizado para comunicação entre os envolvidos?
